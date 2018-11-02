@@ -6,3 +6,4 @@ Try using these links if the notebook isn't loading:
 * [Simple Linear Regression](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/SimpleLinearRegression.ipynb)
 * [Multiple Linear Regression](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/MultipleLinearRegression.ipynb)
 * [Logistic Regression](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/LogisticRegression.ipynb)
+* [Imputing Missing Values](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ImputingMissingValues.ipynb)
