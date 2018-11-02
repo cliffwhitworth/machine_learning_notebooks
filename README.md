@@ -1,5 +1,5 @@
-# regression-notebooks
-Jupyter notebooks of regression projects
+# Machine Learning Notebooks
+Jupyter notebooks on machine learning
 
 Try using these links if the notebook isn't loading:
 * [Boston Housing Dataset](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/BostonHousingDataset.ipynb)
