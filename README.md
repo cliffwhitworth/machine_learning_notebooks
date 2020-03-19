@@ -12,3 +12,5 @@ Try using these links if the notebook isn't loading:
 * [RocAucThreshold](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/RocAucThreshold.ipynb)
 * [Pipeline Example](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/LendingClubPipelineExample.ipynb)
 * [Customer Churn](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CustomerChurn.ipynb)
+* [AP Testing](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ABTesting.ipynb)
+* [ProductAnalysis](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ProductRetailAnalysis.ipynb)
