@@ -14,3 +14,4 @@ Try using these links if the notebook isn't loading:
 * [Customer Churn](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CustomerChurn.ipynb)
 * [AP Testing](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ABTesting.ipynb)
 * [ProductAnalysis](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ProductRetailAnalysis.ipynb)
+* [Credit Card Fraud](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CreditCardFraud.ipynb)
