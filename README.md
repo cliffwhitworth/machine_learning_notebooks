@@ -13,5 +13,5 @@ Try using these links if the notebook isn't loading:
 * [Pipeline Example](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/LendingClubPipelineExample.ipynb)
 * [Customer Churn](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CustomerChurn.ipynb)
 * [AB Testing](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ABTesting.ipynb)
-* [ProductAnalysis](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ProductRetailAnalysis.ipynb)
+* [Product Analysis](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ProductRetailAnalysis.ipynb)
 * [Credit Card Fraud](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CreditCardFraud.ipynb)
