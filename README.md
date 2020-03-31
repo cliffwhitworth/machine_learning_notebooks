@@ -15,3 +15,4 @@ Try using these links if the notebook isn't loading:
 * [AB Testing](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ABTesting.ipynb)
 * [Product Analysis](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/ProductRetailAnalysis.ipynb)
 * [Credit Card Fraud](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CreditCardFraud.ipynb)
+* [Booking Clusters](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/BookingClusters.ipynb)
