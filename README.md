@@ -17,3 +17,4 @@ Try using these links if the notebook isn't loading:
 * [Credit Card Fraud](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CreditCardFraud.ipynb)
 * [Booking Clusters](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/BookingClusters.ipynb)
 * [Census Predictions](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CensusPredictions.ipynb)
+* [Esigning Loan](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/EsigningLoan.ipynb)
