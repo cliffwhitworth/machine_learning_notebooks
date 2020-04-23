@@ -18,3 +18,4 @@ Try using these links if the notebook isn't loading:
 * [Booking Clusters](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/BookingClusters.ipynb)
 * [Census Predictions](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/CensusPredictions.ipynb)
 * [Esigning Loan](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/EsigningLoan.ipynb)
+* [Decision Tree](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/DecisionTree.ipynb)
