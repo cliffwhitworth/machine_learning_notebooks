@@ -21,3 +21,4 @@ Try using these links if the notebook isn't loading:
 * [Decision Tree](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/DecisionTree.ipynb)
 * [TensorFlow 2.x](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/TensorFlow2.ipynb)
 * [Kaggle_HousePrices](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/Kaggle_HousePrices.ipynb)
+* [Twitter TFIDF Analysis](https://nbviewer.jupyter.org/github/cliffwhitworth/machine_learning_notebooks/blob/master/TwitterTFIDFAnalysis.ipynb)
